@@ -111,7 +111,9 @@ A tela inicial exibe:
 - **Pull-to-refresh** para atualizar dados
 - **Botão "6 checkpoints"** clicável que abre calendário interativo
 
-![Tela Home - Checkpoints](https://d2xsxph8kpxj0f.cloudfront.net/310519663122670232/HgSZo4zUMXRCXeLStHkvT2/tela-home_1951fe0a.png)
+![Tela Home - Checkpoints](<img width="1280" height="720" alt="tela-home_1951fe0a" src="https://github.com/user-attachments/assets/467ca1c1-fc62-4284-8af6-d39493030e3d" />
+)
+<img width="1280" height="720" alt="tela-home_1951fe0a (1)" src="https://github.com/user-attachments/assets/cdac355a-9388-42e9-8708-bded15d95e5f" />
 
 #### 2. Tela Disciplinas
 
@@ -123,6 +125,7 @@ A tela de disciplinas apresenta:
 - **Design responsivo** que se adapta a diferentes tamanhos
 
 ![Tela Disciplinas](https://d2xsxph8kpxj0f.cloudfront.net/310519663122670232/HgSZo4zUMXRCXeLStHkvT2/tela-disciplinas_aa87cb69.png)
+![tela-disciplinas_aa87cb69](https://github.com/user-attachments/assets/d56196da-edf3-44e3-a8c5-f93b063f14e4)
 
 #### 3. Tela Perfil
 
@@ -133,6 +136,7 @@ A tela de perfil contém:
 - **Informações da versão** do aplicativo (v1.0.0)
 
 ![Tela Perfil](https://d2xsxph8kpxj0f.cloudfront.net/310519663122670232/HgSZo4zUMXRCXeLStHkvT2/tela-perfil_ddca85d2.png)
+![tela-perfil_ddca85d2 (1)](https://github.com/user-attachments/assets/bdcb0f2d-2910-4a00-824c-f8873ebeb145)
 
 #### 4. Tela Calendário Interativo
 
@@ -145,6 +149,7 @@ O calendário interativo exibe:
 - **Botão de fechar** (X) no canto superior direito
 
 ![Tela Calendário](https://d2xsxph8kpxj0f.cloudfront.net/310519663122670232/HgSZo4zUMXRCXeLStHkvT2/tela-calendario_1ca7193d.png)
+![tela-calendario_1ca7193d (1)](https://github.com/user-attachments/assets/da199db9-06fb-4234-a532-df78bf05d640)
 
 ### Vídeo de Demonstração
 
